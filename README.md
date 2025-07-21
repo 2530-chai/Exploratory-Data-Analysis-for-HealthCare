@@ -29,13 +29,6 @@ SMS reminders may reduce no-show frequency.
 Weekday and time differences between scheduling and appointment date affect attendance.
 
 
-
-🧠 How to Run
-1.Clone the repo:
-git clone https://github.com/your-username/medical-eda.git
-2.Open the notebook in Jupyter:
-jupyter notebook Medical_Appointments_Data_EDA.ipynb
-
 📌 Author
 Chaitra Reddy
 Final Year CSE Student | Data Science Enthusiast
